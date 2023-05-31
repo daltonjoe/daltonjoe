@@ -23,6 +23,6 @@
  
   <a href="https://www.instagram.com/daltn_joe/">
     <img align="left" alt="Piyush Pravin | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
-  </a>
+  </a>  
 <br>
 <br>
