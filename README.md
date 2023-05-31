@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Electrical and Electronics Engineering at MEF University, Istanbul , Turkey.
-- 🌱 &nbsp; Currently Learning Odoo Erp .
+- 🌱 &nbsp; Currently Learning Microsoft Dynamics 365.
 - Open for project collaboration and internship opportunities. 
 
 <p align="center">
