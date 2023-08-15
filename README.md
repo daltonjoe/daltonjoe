@@ -12,12 +12,11 @@
 </p>
 <br>
 <br></br>
-![](https://komarev.com/ghpvc/?username=SerpilTY&style=flat&label=Visits)
+(https://komarev.com/ghpvc/?username=SerpilTY&style=flat&label=Visits)
 <br></br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=daltonjoe)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=daltonjoe)
 <br></br>
-<img src="https://github-readme-stats.vercel.app/api?username=daltonjoe" />
-<br>
+
 <br> 
   <a href="https://www.linkedin.com/in/guzelt">
    <img align="left" alt="Piyush Pravin | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
